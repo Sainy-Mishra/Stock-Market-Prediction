@@ -10,9 +10,21 @@ The Stock Market Prediction project leverages machine learning to forecast stock
 ## Installation
 
 Clone the repository:
-
-<bash>
+```bing 
 git clone https://github.com/username/Stock_Market_Prediction.git
-</bash>
+```
 
 Navigate to the project directory:
+```bing
+cd Stock_Market_Prediction
+```
+
+## Models Used
+
+## Results
+Achieved XX% accuracy using LSTM on a test dataset.
+
+## Contributors
+
+## License
+This project is licensed under the MIT License.
