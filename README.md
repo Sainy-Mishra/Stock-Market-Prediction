@@ -21,9 +21,6 @@ cd Stock_Market_Prediction
 
 ## Models Used
 
-## Results
-Achieved XX% accuracy using LSTM on a test dataset.
-
 ## Contributors
 
 ## License
