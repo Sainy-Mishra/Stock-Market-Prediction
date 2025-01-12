@@ -23,7 +23,7 @@ cd Stock_Market_Prediction
 
 ## Contributors
 - [Sainy-Mishra](https://github.com/Sainy-Mishra)
-- [Krrish-Dayal](https://github.com/KrrishDayal))
+- [Krrish-Dayal](https://github.com/KrrishDayal)
   
 ## License
 This project is licensed under the MIT License.
