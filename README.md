@@ -22,6 +22,7 @@ cd Stock_Market_Prediction
 ## Models Used
 
 ## Contributors
-
+- [Sainy-Mishra](https://github.com/Sainy-Mishra)
+- [Sainy-Mishra](https://github.com/Sainy-Mishra)
 ## License
 This project is licensed under the MIT License.
