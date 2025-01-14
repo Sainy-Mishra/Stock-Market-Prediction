@@ -20,7 +20,19 @@ cd Stock_Market_Prediction
 ```
 
 ## Models Used
+## Stock Prediction Model
 
+### Overview  
+This project predicts stock prices using a Random Forest Regressor. The model utilizes historical stock data and key features like RSI, MACD, and Bollinger Width.
+
+### Model Details  
+- **Model**: Random Forest Regressor  
+- **Features**: RSI, MACD, Bollinger Width  
+- **Metrics**: MAE, MSE, RMSE, R²
+
+
+## Conclusion  
+The model has shown good performance, and future improvements can include feature refinement and hyperparameter tuning.
 ## Contributors
 - [Sainy-Mishra](https://github.com/Sainy-Mishra)
 - [Krrish-Dayal](https://github.com/KrrishDayal)
