@@ -19,9 +19,6 @@ Navigate to the project directory:
 cd Stock_Market_Prediction
 ```
 
-## Models Used
-## Stock Prediction Model
-
 ### Overview  
 This project predicts stock prices using a Random Forest Regressor. The model utilizes historical stock data and key features like RSI, MACD, and Bollinger Width.
 
