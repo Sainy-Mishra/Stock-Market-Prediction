@@ -30,7 +30,6 @@ This project predicts stock prices using a Random Forest Regressor. The model ut
 - **Features**: RSI, MACD, Bollinger Width  
 - **Metrics**: MAE, MSE, RMSE, R²
 
-
 ## Conclusion  
 The model has shown good performance, and future improvements can include feature refinement and hyperparameter tuning.
 ## Contributors
